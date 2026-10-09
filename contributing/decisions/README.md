@@ -20,3 +20,4 @@ An Architecture Decision Record (ADR) captures an important architecture decisio
 ## ADRs
 
 - [Adopt architecture decision records](2026-03-11-adopt-architecture-decision-records.md) (accepted, 2026-03-11)
+- [Guard maintainer Node installs](2026-10-09-guard-maintainer-node-installs.md) (proposed, 2026-10-09)
